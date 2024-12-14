@@ -1,0 +1,16 @@
+.menu-style {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu-title {
+  font-weight: bold !important;
+  font-style: normal !important;
+  color: white !important;
+  margin-left: 0px !important;
+}
+
+.munu-icon {
+    margin-left: 5px !important;
+}

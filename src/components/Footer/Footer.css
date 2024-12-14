@@ -1,0 +1,12 @@
+.footer-style {
+    background-color: #1565C0 !important;
+    color: white !important;
+    font-weight: bold;
+    width: 100%;
+    margin-top: auto;
+}
+
+.footer-icon {
+    margin-right: 7px;
+    margin-bottom: -3px;
+}

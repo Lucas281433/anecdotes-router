@@ -1,0 +1,29 @@
+body {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 200;
+  font-style: italic;
+  background-color: #a2d2ff;
+  color: #004e98;
+  margin: 0;
+}
+
+.notification-style {
+  background-color: #a2d2ff !important;
+  color: #004e98 !important;
+  font-weight: bold !important;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer-position {
+  background-color: #1565c0 !important;
+  color: white !important;
+  font-weight: bold;
+  width: 100%;
+  margin-top: auto;
+  justify-content: center;
+}
